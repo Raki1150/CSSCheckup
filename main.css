@@ -1,0 +1,23 @@
+.title {
+    background: blue;
+    
+}
+#entry-heading {
+    color: gray;
+
+}
+
+ul {
+    font: 16px;
+}
+
+p{
+    border: green
+}
+.table{
+    width: 50%;
+    height: 60px;
+    margin: 10px;
+    border: purple solid;
+    
+}
